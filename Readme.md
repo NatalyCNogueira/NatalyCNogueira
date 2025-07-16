@@ -88,7 +88,7 @@ Mantenho um perfil com meu diário de estudos, progressos, conquistas, dicas e r
 - 🎨 Curto design, UX/UI e acessibilidade
 - ☕ Café é meu combustível de código
 - 🎻 Apaixonada por violino e música instrumental
-- 🎮 Gosto de jogos (especialmente indie e aventura)
+- 🎮 Gosto de jogos (especialmente de simulação da vida)
 - 📺 Amo animes, filmes e séries — cultura pop é comigo mesmo!
 - ✈️ Viajar é uma das minhas maiores fontes de inspiração
 - 💬 Sempre aberta para novas conexões, parcerias e projetos
