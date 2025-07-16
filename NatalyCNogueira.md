@@ -43,9 +43,6 @@ Mantenho um perfil com meu diário de estudos, progressos, conquistas, dicas e r
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
 
 > 🔗 Veja todos os projetos em: [github.com/NatalyCNogueira?tab=repositories](https://github.com/NatalyCNogueira?tab=repositories)
 
@@ -59,15 +56,18 @@ Mantenho um perfil com meu diário de estudos, progressos, conquistas, dicas e r
 
 ## 🛣️ Roadmap de Estudos
 <!-- Para marcar como concluído colocar um X -->
-- [ ] **HTML e CSS** → estrutura e estilo das páginas
-- [ ] **Git e GitHub** → controle de versões e colaboração
-- [ ] **JavaScript** → lógica, DOM, eventos
-- [ ] **Responsividade e Acessibilidade** → layout adaptável e inclusivo
-- [ ] **Consumo de APIs** → integração com dados externos
-- [ ] **React** → componentes, hooks e SPA
-- [ ] **TypeScript** → tipagem no JavaScript
-- [ ] **Testes, SEO e Performance** → qualidade e otimização
-- [ ] **Deploy e Portfólio** → publicação de projetos
+
+- [ ] **HTML** — Estrutura da página
+- [ ] **CSS** — Estilos e layout
+- [ ] **Git e GitHub** — Controle de versão
+- [ ] **JavaScript** — Lógica e interatividade
+- [ ] **Responsividade** — Adaptar para celular/tablet
+- [ ] **APIs** — Conectar com dados externos
+- [ ] **React** — Componentes e SPA
+- [ ] **TypeScript** — Tipagem no JavaScript
+- [ ] **Deploy** — Colocar projetos no ar
+
+> 📌 Quer saber tudo sobre o meu roadmap de estudos? Clique [aqui](https://gist.github.com/seu-usuario/ID-do-gist) para saber mais.
 
 > 💡 *Atualizo regularmente conforme avanço nos estudos.*
 
