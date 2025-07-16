@@ -67,7 +67,7 @@ Mantenho um perfil com meu diário de estudos, progressos, conquistas, dicas e r
 - [ ] **TypeScript** — Tipagem no JavaScript
 - [ ] **Deploy** — Colocar projetos no ar
 
-> 📌 Quer saber tudo sobre o meu roadmap de estudos? Clique [aqui](https://gist.github.com/seu-usuario/ID-do-gist) para saber mais.
+> 📌 Quer saber tudo sobre o meu roadmap de estudos? Clique [aqui](https://github.com/NatalyCNogueira/RoadmapEstudos) para saber mais.
 
 > 💡 *Atualizo regularmente conforme avanço nos estudos.*
 
