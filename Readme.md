@@ -48,12 +48,6 @@ Mantenho um perfil com meu diário de estudos, progressos, conquistas, dicas e r
 
 ---
 
-## 🎓 Certificados
-
--
-
----
-
 ## 🛣️ Roadmap de Estudos
 <!-- Para marcar como concluído colocar um X -->
 
