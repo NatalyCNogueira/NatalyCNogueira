@@ -14,7 +14,6 @@
 
 **Back-end e Ferramentas:**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
@@ -33,37 +32,6 @@ Mantenho um perfil com meu diário de estudos, progressos, conquistas, dicas e r
 
 ![NatalyCNogueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalyCNogueira&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalyCNogueira&layout=compact&theme=radical)
-
----
-
-## 🗂 Projetos em Destaque
-
-| Projeto | Pequena Descrição | Tecnologias | Ação |
-|--------|------------|--------------|-------|
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
-> 🔗 Veja todos os projetos em: [github.com/NatalyCNogueira?tab=repositories](https://github.com/NatalyCNogueira?tab=repositories)
-
----
-
-## 🛣️ Roadmap de Estudos
-<!-- Para marcar como concluído colocar um X -->
-
-- [ ] **HTML** — Estrutura da página
-- [ ] **CSS** — Estilos e layout
-- [ ] **Git e GitHub** — Controle de versão
-- [ ] **JavaScript** — Lógica e interatividade
-- [ ] **Responsividade** — Adaptar para celular/tablet
-- [ ] **APIs** — Conectar com dados externos
-- [ ] **React** — Componentes e SPA
-- [ ] **TypeScript** — Tipagem no JavaScript
-- [ ] **Deploy** — Colocar projetos no ar
-
-> 📌 Quer saber tudo sobre o meu roadmap de estudos? Clique [aqui](https://github.com/NatalyCNogueira/RoadmapEstudos) para saber mais.
-
-> 💡 *Atualizo regularmente conforme avanço nos estudos.*
 
 ---
 
